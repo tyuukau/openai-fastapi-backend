@@ -1,0 +1,8 @@
+{
+    "message": {
+        "content": "The capital of France is Paris.",
+        "role": "assistant",
+        "function_call": null,
+        "tool_calls": null
+    }
+}
